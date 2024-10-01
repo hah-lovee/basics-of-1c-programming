@@ -1,1 +1,0 @@
-# basics-of-1c-programming
